@@ -12,7 +12,6 @@ A real-time camera assistant that helps correct exercise form (e.g., bicep curls
 ## Setup
 ```bash
 cd pose_coach
-# Use Python 3.11 for mediapipe compatibility
 python -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
